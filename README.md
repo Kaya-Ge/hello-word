@@ -1,2 +1,3 @@
 # hello-word
 Training repository
+🧞‍♂️
